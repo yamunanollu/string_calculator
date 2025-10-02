@@ -9,3 +9,4 @@ RSpec.describe StringCalculator do
     end
   end
 end
+
